@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/e3c91f56-0ff4-49ac-92c1-319256d29f38)
+
+
+
 Project Name:
 
 It's unclear from the image what the project name is. However, based on the data, it could be something like "Employee Payroll and Overtime Calculation" or "January Payroll Report."
